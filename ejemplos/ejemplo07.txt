@@ -8,4 +8,6 @@
 10. << n
 11. Fin
 
-// El resultado solo será 23
+// El resultado solo será 
+// 2
+// 3
