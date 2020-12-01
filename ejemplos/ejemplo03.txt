@@ -10,3 +10,5 @@
 10.  Fin si
 11. Escribir "El sueldo es :" + sueldo
 12.  Fin
+
+// No habra resultado ya que el 21 no cumple con ninguna condición
