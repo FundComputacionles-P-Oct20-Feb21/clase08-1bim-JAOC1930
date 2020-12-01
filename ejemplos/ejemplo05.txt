@@ -29,3 +29,5 @@
 29. Fin_Dependiendo_De
 30. Escribir "El resultado de la operación " + tipo + "es :" + resultado
 31. Fin
+
+// No hay resultado porque al ingresar el 4 no hay para realizar alguna operacion
