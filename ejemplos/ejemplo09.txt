@@ -10,11 +10,15 @@
 
 Miniespecificacion
 
-1_ Inicio
-2_ num, i[0, n]
-3_ cadena, x(200)[{1-9},{a-z},{A-Z},{BS}] <--""
-4_ Para(num<--5, num<=30, 5) haga
-5_     cadena = cadena + num + "\n"
-8_ Fin_Para 
-10_ Escribir cadena
-9_ Fin
+1. Inicio
+2. num, i[0, n]
+3. cadena, x(200)[{1-9},{a-z},{A-Z},{BS}] <--""
+4. Para(num<--5, num<=30, num ++5) haga
+5.   Si (num MOD 2 == 0) entonces
+6.     cadena = cadena + num + "\n"
+7.   De lo contario
+8.     cadena = cadena + num + "\n" 
+9.   Fin si
+10. Fin_Para 
+11. Escribir cadena
+12. Fin
