@@ -7,3 +7,14 @@
 // 30
 // Debe usar la operación aritmética MOD y un ciclo
 // repetitivo Para
+
+Miniespecificacion
+
+1_ Inicio
+2_ num, i[0, n]
+3_ cadena, x(200)[{1-9},{a-z},{A-Z},{BS}] <--""
+4_ Para(num<--5, num<=30, 5) haga
+5_     cadena = cadena + num + "\n"
+8_ Fin_Para 
+10_ Escribir cadena
+9_ Fin
